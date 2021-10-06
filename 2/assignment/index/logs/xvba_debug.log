@@ -1,0 +1,57 @@
+2021-01-12 00:31:59 info: XVBA Live Server extension is now active!
+2021-01-12 00:31:59 debug: Start Watch Excel Export VBA Files
+2021-01-12 00:31:59 debug: Start Run Macro Server
+2021-01-12 00:32:03 info: config.json File Created with Success!!!
+2021-01-12 00:32:03 info: gitignore file created with success
+2021-01-12 00:32:03 info: package.json File created with Success
+2021-01-12 00:32:03 info: Folder already exist: Logs Folder
+2021-01-12 00:32:03 info: Bootstrap XVBA
+2021-01-12 00:32:03 info: Finish Create Xvba project folders
+2021-01-12 00:40:02 debug: Start watch vba files change on folder: vba-files  [Live Server]
+2021-01-12 00:40:02 debug: Start watch vba files change on folder: xvba_modules  [Live Server]
+2021-01-12 00:40:02 debug: Start watch vba files change on folder: xvba_unit_test  [Live Server]
+2021-01-12 00:40:02 info: Start XVBA Live Server!
+2021-01-12 00:40:14 debug: Stop Live Server for VBA Project files
+2021-01-12 00:40:14 info: Start Import VBA files
+2021-01-12 00:40:14 debug: Delete temp Files Success!
+2021-01-12 00:40:14 debug: Stop Live Server for VBA Unit Test
+2021-01-12 00:40:14 debug: Stop Live Server for VBA Modules
+2021-01-12 00:40:14 debug: Command Status: Command Run
+2021-01-12 00:40:14 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:40:20 debug: Start Move VBA files from tmp to Workspace
+2021-01-12 00:40:20 debug: Finish Move VBA files from tmp to Workspace
+2021-01-12 00:52:11 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:52:37 info: Start Import VBA files
+2021-01-12 00:52:37 debug: Delete temp Files Success!
+2021-01-12 00:52:37 debug: Command Status: Command Run
+2021-01-12 00:52:37 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:52:47 debug: Start Move VBA files from tmp to Workspace
+2021-01-12 00:52:47 debug: Finish Move VBA files from tmp to Workspace
+2021-01-12 00:53:07 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:53:19 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:54:19 info: Start Import VBA files
+2021-01-12 00:54:19 debug: Delete temp Files Success!
+2021-01-12 00:54:19 debug: Command Status: Command Run
+2021-01-12 00:54:19 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:54:22 debug: Start Move VBA files from tmp to Workspace
+2021-01-12 00:54:22 debug: Move vba file ThisWorkbook1.cls namespace: default
+2021-01-12 00:54:22 debug: Finish Move VBA files from tmp to Workspace
+2021-01-12 00:54:50 info: Start Import VBA files
+2021-01-12 00:54:50 debug: Delete temp Files Success!
+2021-01-12 00:54:50 debug: Command Status: Command Run
+2021-01-12 00:54:50 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:54:52 debug: Start Move VBA files from tmp to Workspace
+2021-01-12 00:54:52 debug: Finish Move VBA files from tmp to Workspace
+2021-01-12 00:55:25 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:58:09 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:58:59 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:58:59 error: exec error: Error: Command failed:  cmd /c start "" /b "c:\Users\yjiangck\.vscode\extensions\local-smart.excel-live-server-3.0.5\excel-live-server\autoload.xlsm"
+��һ����������ʹ�ô��ļ��������޷����ʡ�
+
+2021-01-12 00:59:06 debug: Finish Exported file from Vscode to Excel
+2021-01-12 00:59:16 debug: Start watch vba files change on folder: vba-files  [Live Server]
+2021-01-12 00:59:16 debug: Start watch vba files change on folder: xvba_modules  [Live Server]
+2021-01-12 00:59:16 debug: Start watch vba files change on folder: xvba_unit_test  [Live Server]
+2021-01-12 00:59:16 info: Start XVBA Live Server!
+2021-01-12 00:59:24 debug: Finish Exported file from Vscode to Excel
+2021-01-12 01:02:05 debug: Close Watch Excel Export VBA Files

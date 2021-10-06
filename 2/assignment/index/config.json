@@ -1,0 +1,12 @@
+{
+    "app_name": "XVBA",
+    "description": "",
+    "author": "",
+    "email": "",
+    "create_ate": "Tue Jan 12 2021 00:32:03 GMT+0800 (中国标准时间)",
+    "excel_file": "index.xlsm",
+    "vba_folder": "vba-files",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}
